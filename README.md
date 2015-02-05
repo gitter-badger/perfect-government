@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mherod/perfect-government.png?label=ready&title=Ready)](https://waffle.io/mherod/perfect-government)
 The Perfect Government
 =====
 
